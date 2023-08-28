@@ -15,7 +15,7 @@ This is a classic Snake game implemented using the `pygame` library in Python. R
 
 2. Navigate to the directory:
 
-cd snake-game
+cd snake_game_matinmollapur
 
 3. Install the required library:
 
